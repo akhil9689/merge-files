@@ -1,0 +1,16 @@
+{
+  "name": "merge-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2xls": "^0.1.2",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
